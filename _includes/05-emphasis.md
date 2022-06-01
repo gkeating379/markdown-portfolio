@@ -1,1 +1,10 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+# Emphasis Learning
+
+Below is **nonsense** testing _markdown features_
+
+## Nonsense 1
+- Floor
+- Wall 
+- Door
+
+## Nonsense 2
